@@ -13,7 +13,7 @@ Esse repositório tem como objetivo facilitar a procura de links necessários pa
 
 Link do criador de mapas - https://erebus.rcj.cloud/docs/tutorials/map-creator/
 
-Link do site para customização de robôs - https://v23.robot.erebus.rcj.cloud/
+Link do site para customização de robôs - https://v24.robot.erebus.rcj.cloud/
 
 ------------------------------------------------------------
 
