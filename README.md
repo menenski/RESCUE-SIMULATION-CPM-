@@ -1,13 +1,13 @@
 # RESCUE-SIMULATION-CPM-
 Esse repositório tem como objetivo facilitar a procura de links necessários para criação dos algoritmos, bem como a publicação de códigos para competição e estudos. Exclusivamente das equipes CPM.
 
-Link do tutorial geral de instalação - https://erebus.rcj.cloud/docs/installation/windows/
+1º Link do tutorial geral de instalação - https://erebus.rcj.cloud/docs/installation/windows/
 
-Link para download do Python (qualquer versão 3.9.x e 3.10.x) - https://www.python.org/downloads/windows/
+2º Link para download do Python (qualquer versão 3.9.x e 3.10.x) - https://www.python.org/downloads/windows/
 
-Link para download do Webots (2023b) - https://github.com/cyberbotics/webots/releases/download/R2023b/webots-R2023b_setup.exe
+3º Link para download do Webots (2023b) - https://github.com/cyberbotics/webots/releases/download/R2023b/webots-R2023b_setup.exe
 
-Link para download da pasta .zip do Erebus - https://github.com/robocup-junior/erebus/releases
+4º Link para download da pasta .zip do Erebus - https://github.com/robocup-junior/erebus/releases
 
 ------------------------------------------------------------
 
