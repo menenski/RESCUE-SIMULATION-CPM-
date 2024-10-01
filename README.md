@@ -22,3 +22,7 @@ Link da documentação do Erebus, onde tem-se informações sobre todos os senso
 Link do Fórum da RobocupJr Rescue Simulation - https://junior.forum.robocup.org/c/robocupjunior-rescue/rescue-simulation/47
 
 Link do discord da comunidade Rescue Simulation - https://discord.gg/Ggpt2Cy2
+
+Link de canais, vídeos e playlists recomendados: https://www.youtube.com/watch?v=luyg3plGujg&list=PLbEU0vp_OQkUwANRMUOM00SXybYQ4TXNF
+https://youtube.com/@jeffreycheng6885?si=x1YQHh32SNBCJV1v
+https://www.youtube.com/@KajalGada
