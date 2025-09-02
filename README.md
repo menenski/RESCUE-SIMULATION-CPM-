@@ -1,6 +1,8 @@
 # RESCUE-SIMULATION-CPM-
 Esse repositório tem como objetivo facilitar a procura de links necessários para criação dos algoritmos, bem como a publicação de códigos para competição e estudos. Exclusivamente das equipes CPM.
 
+Link da instalação do Erebus v25 - https://github.com/robocup-junior/erebus/archive/refs/tags/v25.0.1.zip
+
 1º Link do tutorial geral de instalação - https://erebus.rcj.cloud/docs/installation/windows/
 
 2º Link para download do Python (qualquer versão 3.9.x e 3.10.x) - https://www.python.org/downloads/windows/
@@ -10,8 +12,7 @@ Esse repositório tem como objetivo facilitar a procura de links necessários pa
 4º Link para download da pasta .zip do Erebus - https://github.com/robocup-junior/erebus/releases
 
 ------------------------------------------------------------
-
-Link do criador de mapas - https://erebus.rcj.cloud/docs/tutorials/map-creator/
+Link do criador de mapas - https://osaka.rcj.cloud/service/editor/simulation/2025
 
 Link do site para customização de robôs - https://v24.robot.erebus.rcj.cloud/
 
