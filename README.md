@@ -26,3 +26,9 @@ Link de canais, vídeos e playlists recomendados:
 https://www.youtube.com/watch?v=luyg3plGujg&list=PLbEU0vp_OQkUwANRMUOM00SXybYQ4TXNF
 https://youtube.com/@jeffreycheng6885?si=x1YQHh32SNBCJV1v
 https://www.youtube.com/@KajalGada
+
+----------------------------------------------------------------
+Link da Fonte Aberta de Visão Computacional: https://docs.opencv.org/4.12.0/
+Link do google colab: https://colab.research.google.com/
+Link do roboflow: https://roboflow.com/
+Link do Ultralytics: https://docs.ultralytics.com/pt/
