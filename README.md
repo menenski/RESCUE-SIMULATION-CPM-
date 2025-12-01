@@ -29,6 +29,9 @@ https://www.youtube.com/@KajalGada
 
 ----------------------------------------------------------------
 Link da Fonte Aberta de Visão Computacional: https://docs.opencv.org/4.12.0/
+
 Link do google colab: https://colab.research.google.com/
+
 Link do roboflow: https://roboflow.com/
+
 Link do Ultralytics: https://docs.ultralytics.com/pt/
