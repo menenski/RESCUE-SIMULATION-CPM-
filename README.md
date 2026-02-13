@@ -30,3 +30,14 @@ Link do google colab: https://colab.research.google.com/
 Link do roboflow: https://roboflow.com/
 
 Link do Ultralytics: https://docs.ultralytics.com/pt/
+
+Site recomendado para estudar sobre algoritmos de navegação BFS, DFS, Djikstra e A-star: https://www.redblobgames.com
+Esse site foi utilizado pela equipe da Argentina, que ficou em segundo lugar no mundial de 2025, para sua navegação. Tem vários posts sobre pathfinding das mais diversas opções.
+
+Site do YOLO para estudo: https://www.ultralytics.com
+
+Link de canais, vídeos e playlists recomendados: 
+https://www.youtube.com/watch?v=luyg3plGujg&list=PLbEU0vp_OQkUwANRMUOM00SXybYQ4TXNF
+https://youtube.com/@jeffreycheng6885?si=x1YQHh32SNBCJV1v
+https://www.youtube.com/@KajalGada
+
