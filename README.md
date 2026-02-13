@@ -22,11 +22,6 @@ Link do Fórum da RobocupJr Rescue Simulation - https://junior.forum.robocup.org
 
 Link do discord da comunidade RoboCupJunior - https://discord.gg/3ejGBXQS
 
-Link de canais, vídeos e playlists recomendados: 
-https://www.youtube.com/watch?v=luyg3plGujg&list=PLbEU0vp_OQkUwANRMUOM00SXybYQ4TXNF
-https://youtube.com/@jeffreycheng6885?si=x1YQHh32SNBCJV1v
-https://www.youtube.com/@KajalGada
-
 ----------------------------------------------------------------
 Link da Fonte Aberta de Visão Computacional: https://docs.opencv.org/4.12.0/
 
