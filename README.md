@@ -7,7 +7,7 @@ Esse repositório tem como objetivo facilitar a procura de links necessários pa
 
 3º Link para download do Webots (2023b) - https://github.com/cyberbotics/webots/releases/download/R2023b/webots-R2023b_setup.exe
 
-4º Link para download da pasta .zip do Erebus - Link da instalação do Erebus v25 - https://github.com/robocup-junior/erebus/archive/refs/tags/v25.0.1.zip
+4º Link para download da pasta .zip do Erebus - Link da instalação do Erebus **v26!!** - (https://github.com/robocup-junior/erebus/releases/tag/v26.0.0)
 
 ------------------------------------------------------------
 
