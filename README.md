@@ -9,6 +9,8 @@ Esse repositório tem como objetivo facilitar a procura de links necessários pa
 
 4º Link para download da pasta .zip do Erebus - Link da instalação do Erebus **v26!!** - (https://github.com/robocup-junior/erebus/releases/tag/v26.0.0)
 
+Link da versão v25: https://github.com/robocup-junior/erebus/releases/tag/v25.0.1
+
 ------------------------------------------------------------
 
 Link do criador de mapas - https://osaka.rcj.cloud/service/editor/simulation/2025
